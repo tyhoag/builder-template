@@ -1,35 +1,33 @@
-# [Your product, or your part of it]
+# Mentors International: WhatsApp Teaching Prototype
 
-> One sentence: what this is and who it is for.
+> A WhatsApp chatbot that delivers a teaching curriculum to Mentors International's entrepreneurs in Colombia (pilot in Colombia or Mexico).
 
-**Where to see it:** [URL, or where the work lives: a live app, a published page, a model in this repo]
-**Built by:** [your name], MSB 341 Product Management, BYU
+**Where to see it:** A WhatsApp test number built on Meta's API (number to be added once it is live)
+**Built by:** tyhoag, MSB 341 Product Management, BYU
 
 ## Context
 
-Fill this in during Sprint 1 and keep it current. Every sprint is read against it.
+- **My role:** One of two AI engineers on the Mentors International project team. My hats are
+  AI builder, researcher, and team member. I help decide what to build and the most feasible way
+  to build it, and I build the prototypes that test those choices.
+- **What I am working on:** My part of the team's product: prototypes for a WhatsApp teaching
+  curriculum, starting with a bot that delivers lesson 1 by text. The team (a designer, two
+  product managers, a head of development, and an executive team we answer to) already has a PRD
+  and several Claude artifact mock-ups; this work moves to something usable inside WhatsApp.
+- **Who it is for:** Entrepreneurs in Colombia whom Mentors International serves.
+- **Who uses my work:** My teammates and the Mentors International executive team, who will
+  react to the prototype and decide whether to run a pilot. Mentors in Colombia are also
+  interviewed to see whether they would use it.
 
-- **My role:** [the hats you wear, and what you own. Most roles combine several: product,
-  engineering, design, go-to-market, pricing, analytics, operations. A solo builder wears most
-  of them]
-- **What I am working on:** [your product, or your part of a team's product. "Not decided" is
-  fine early on; list the options you are weighing]
-- **Who it is for:** [the customer or segment the work ultimately serves]
-- **Who uses my work:** [the specific person who will use what you make, and how you reach
-  them. On a team this can be your teammates: engineers using your specs, sales using your
-  pricing]
-
-If your situation changes, revise this and note what changed. That is normal; a silent
-mismatch between this file and your work is not.
+Mentors International content is under NDA. Lesson content and internal documents stay out of
+this repo.
 
 ## Where the work lives
 
-Everything someone would need to check your output. List each place on its own line.
-
-- **Repos:** [this repo, and any other repo your work happens in. Share it with `sdmurff` if you
-  can. A company repo you cannot share is fine: say so here, and
-  `/sprint-review` will summarize its commits (dates and messages, never code)]
-- **Live:** [the app, page, store listing, or file someone else can open]
+- **Repos:** This repo for sprint plans, reviews, and notes. The prototype's code repo is not
+  decided yet; I will list it here once it exists. Team and client documents are under NDA and
+  are not in this repo.
+- **Live:** WhatsApp test number (to be added).
 
 ## What is in this repo
 

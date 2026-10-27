@@ -5,17 +5,22 @@ a brand new session act like a colleague who already knows what you are working 
 
 ## What I am working on
 
-- **My role:** [the hats you wear and what you own, from README.md]
-- **What it is:** [one sentence: your product, or your part of a team's product]
-- **Who it is for:** [a specific person or segment, see discovery/personas.md]
-- **Who uses my work:** [the customer, or teammates if your work feeds a team]
-- **Why they would use it:** [the problem, in their words]
+- **My role:** One of two AI engineers on the Mentors International project team. Hats: AI
+  builder, researcher, team member.
+- **What it is:** A WhatsApp chatbot that delivers a teaching curriculum to Mentors
+  International's entrepreneurs in Colombia (pilot in Colombia or Mexico).
+- **Who it is for:** Entrepreneurs in Colombia served by Mentors International.
+- **Who uses my work:** My teammates and the Mentors International executive team, who decide
+  whether to pilot it.
+- **Why they would use it:** [to fill in after the Colombia interviews]
 
 ## Current state
 
-- **This sprint's goal:** [from sprints/sprint-N-plan.md, update each sprint]
-- **Where to see it:** [URL, or where the work lives]
-- **Biggest open risk:** [the thing most likely to make this fail]
+- **This sprint's goal:** Sprint 1: early signal from interviews with mentors in Colombia, plus a
+  working WhatsApp prototype to react to (see sprints/sprint-1-plan.md).
+- **Where to see it:** WhatsApp test number (to be added once live).
+- **Biggest open risk:** Meta WhatsApp Business setup stalling. Fallback: a teammate's existing
+  business API account, or one of Mentors International's own accounts.
 
 ## How this repo works
 
@@ -36,10 +41,12 @@ a brand new session act like a colleague who already knows what you are working 
 Fill in what applies to your work. A pricing or go-to-market role may have tools and file
 formats instead of a code stack.
 
-- **Stack or tools:** [fill in]
-- **Where output lives:** [where finished work ends up: this repo, another repo, a deploy, a
-  shared doc, or only the demo]
+- **Stack or tools:** WhatsApp via Meta's Business API; the rest is not decided yet.
+- **Where output lives:** The WhatsApp test number and its code repo (not decided yet). Sprint
+  plans and notes live in this repo.
 - **Testing and style:** [fill in as they emerge]
+- **NDA:** Mentors International content and documents are under NDA. Never put lesson content
+  or client documents in this repo.
 
 ## Working with me
 
