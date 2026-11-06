@@ -22,12 +22,18 @@
 Mentors International content is under NDA. Lesson content and internal documents stay out of
 this repo.
 
-## Where the work lives
+## Work files and links
 
-- **Repos:** This repo for sprint plans, reviews, and notes. The prototype's code repo is not
-  decided yet; I will list it here once it exists. Team and client documents are under NDA and
-  are not in this repo.
-- **Live:** WhatsApp test number (to be added).
+| What | Link | Access |
+|---|---|---|
+| Team code repo (project MENA, mockup) | https://github.com/Ensign-College/mena-mockup-1 | Private repo. Not visible to a grader unless they are added as a collaborator |
+| Claude artifact prototype (what I demo) | https://claude.ai/artifact/Bg4SnEmzGQk5R7X32Wz2tx | Claude artifact. Must be shared so the grader can open it |
+| Sprint plan and review | `sprints/sprint-1-plan.md`, `sprints/sprint-1-review.md` in this repo | Public in this repo |
+| Team PRD | Not linked | Under Mentors International's NDA, so it cannot be shared |
+| WhatsApp test number | Not live yet | WhatsApp Business API access exists for one team member; the rest of the dev team is being set up |
+
+Mentors International content and documents are under NDA and stay out of this repo. My code
+work happens in the team repo above, not here; this repo holds sprint plans, reviews, and notes.
 
 ## What is in this repo
 
