@@ -75,7 +75,7 @@ None logged this sprint. You studied no axes through `/learn`; the sprint's work
 
 ## Your retro
 
-*The builder's own answers, recorded word for word. Two dictation errors were corrected at the builder's request: "Claude artifact prototypes" and "API".*
+*The builder's own answers, recorded word for word. Dictation errors were corrected at the builder's request: "Claude artifact prototypes", "API", and "slightly less difficult" in the difficulty answer.*
 
 **Did you hit the goal?**
 I would say the goal changed a little bit because we're part of the more robust team with multiple different roles and a lot more executive oversight. Those goals have kind of shifted in the last two weeks. We've only been making Claude artifact prototypes, which is fine. We've started pretty extensively on some actual prototype that we'll work within WhatsApp.
@@ -95,7 +95,7 @@ Yes and no. It's changed because we're constantly pivoting to figure out if what
 **Actual difficulty:**
 Yeah, I would say of 3.5.
 
-I think it was more difficult. And for a different reason, it was difficult because it was of the executive input and oversight that have made it more difficult, rather than just the complexity of the challenge that we're trying to overcome.
+I think it was slightly less difficult. And for a different reason, it was difficult because it was of the executive input and oversight that have made it more difficult, rather than just the complexity of the challenge that we're trying to overcome.
 
 **What will you change next sprint?**
 Better, more defined roles from the team. We've already talked about this in our meetings. Isn't something if you're real. We've actually talked about that.
