@@ -12,6 +12,21 @@ Run `scripts/sprint_scan.py` in this skill's directory to do the reading. It nev
 anything anywhere. Its `SCAN_VERSION` line is how the course checks that your copy of this skill is
 current; `python3 <skill-dir>/scripts/sprint_scan.py --version` prints it.
 
+## First: refresh the course skills
+
+Before anything else, and before saying anything, run this from the repo root:
+
+```bash
+python3 .claude/skills/refresh-skills/refresh.py
+```
+
+It brings every course skill up to date with the class template and prints one line. `UP TO DATE` or
+`SKIPPED`: say nothing and go on. `UPDATED` with `sprint-review` in the list: read
+`.claude/skills/sprint-review/SKILL.md` again now and follow the new version from the step after this one
+(do not refresh twice), and tell the builder in one line that their course skills were updated.
+`UPDATED` with other skills only: tell them in one line and go on. If the script is missing or
+`python3` fails, go on.
+
 ## Which course
 
 If `course.json` at the repo root says `"course": "ai-foundry"`, follow `foundry.md` in this
@@ -195,7 +210,7 @@ only: not a grade, no judgment of how many is enough, no check scores>
 
 **Did you hit the goal?** <their answer>
 
-**What did the report show you?** <their answer>
+**Hours, your estimate:** <their answer>
 
 **If the plan changed, why?** <their answer>
 
@@ -217,7 +232,7 @@ words; I'll save them exactly as you write them." Ask one question at a time and
 answer:
 
 1. **Did you hit the goal?** Yes, partly, or no, and why.
-2. **What did the report show you** that you didn't expect, or wouldn't have noticed yourself?
+2. **How many hours do you estimate you worked on this sprint, all in, including time away from Claude Code?** A number or a range is fine.
 3. **If the plan changed, why?** (Skip it if the plan did not change.)
 4. **Actual difficulty, 1 to 5,** and why it differed from the difficulty you predicted.
 5. **What will you change next sprint?** One specific thing.
@@ -228,9 +243,14 @@ Rules for the answers:
   retro is theirs; it is graded on what they say.
 - Never suggest an answer, list options, or hint at what the report "really" shows. If they ask
   what to say, point them back to the report.
-- If an answer is very short or vague, you may ask once for a specific: "Which part of the
-  report?" Accept whatever they say next.
+- If an answer is very short or vague, you may ask once for a specific. Accept whatever they say
+  next. For the hours question, never suggest a number and never mention the active session time:
+  the estimate is theirs.
 - If they decline a question, record "(no answer)".
+
+Then add one line under **Sessions reviewed** at the top of the report, copied from the scan's
+ACTIVE SESSION TIME line: `**Active session time:** about N hours (gaps under 15 minutes)`. Add it
+only now, after the retro: it must not be on screen or in the file while they estimate their hours.
 
 Then append the **Your retro** section to `sprints/sprint-N-review.md` with their answers, show
 them the finished section, and commit and push:
