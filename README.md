@@ -3,7 +3,7 @@
 > A WhatsApp chatbot that delivers a teaching curriculum to Mentors International's entrepreneurs in Colombia (pilot in Colombia or Mexico).
 
 **Where to see it:** A WhatsApp test number built on Meta's API (number to be added once it is live)
-**Built by:** tyhoag, MSB 341 Product Management, BYU
+**Built by:** tyhoag, AI Foundry, BYU
 
 ## Context
 
