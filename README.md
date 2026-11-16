@@ -2,7 +2,7 @@
 
 > A WhatsApp chatbot that delivers a teaching curriculum to Mentors International's entrepreneurs in Colombia (pilot in Colombia or Mexico).
 
-**Where to see it:** A WhatsApp test number built on Meta's API (number to be added once it is live)
+**Where to see it:** The team repo and project board under Work files and links below, and the sprint demo on Loom (the WhatsApp number is a Meta test number until MI's business account is verified)
 **Built by:** tyhoag, AI Foundry, BYU
 
 ## Context
@@ -26,11 +26,16 @@ this repo.
 
 | What | Link | Access |
 |---|---|---|
-| Team code repo (project MENA, mockup) | https://github.com/Ensign-College/mena-mockup-1 | Private repo. Not visible to a grader unless they are added as a collaborator |
-| Claude artifact prototype (what I demo) | https://claude.ai/artifact/Bg4SnEmzGQk5R7X32Wz2tx | Claude artifact. Must be shared so the grader can open it |
-| Sprint plan and review | `sprints/sprint-1-plan.md`, `sprints/sprint-1-review.md` in this repo | Public in this repo |
+| Team code repo (Maia WhatsApp bot) | https://github.com/Ensign-College/mena-mockup-1 | Private. sdmurff invited as a read-only collaborator on 2026-11-16 |
+| Team project board (Maia Q&A V1) | https://github.com/orgs/Ensign-College/projects/43 | Ensign-College org project |
+| Development backlog I set up (Sprint 2 operations work) | [Issues #4 to #52](https://github.com/Ensign-College/mena-mockup-1/issues?q=is%3Aissue+author%3Atyhoag) | In the team repo. I wrote all 49 on 2026-11-10: decisions (#4 to #8, #50, #51), build work by area, blocked ops items, and a parking lot |
+| My PR: save how long the socio waited for each answer | [PR #61](https://github.com/Ensign-College/mena-mockup-1/pull/61) (closes #23) | In the team repo; 5 commits by tyhoag, with tests |
+| WhatsApp buttons (Sprint 2 build work, in progress) | [#11](https://github.com/Ensign-College/mena-mockup-1/issues/11) privacy "I agree" buttons, [#12](https://github.com/Ensign-College/mena-mockup-1/issues/12) topic buttons, [#16](https://github.com/Ensign-College/mena-mockup-1/issues/16) thumbs rating | Issues in the team repo; the PR link for each goes here when it opens |
+| PRs I reviewed and merged | [PR #1](https://github.com/Ensign-College/mena-mockup-1/pull/1) (merged 2026-10-31), [PR #2](https://github.com/Ensign-College/mena-mockup-1/pull/2) (approved 2026-11-05) | In the team repo |
+| Claude artifact prototype (Sprint 1 demo) | https://claude.ai/artifact/Bg4SnEmzGQk5R7X32Wz2tx | Public: anyone with the link can open it |
+| Sprint plans and reviews | `sprints/` in this repo | Public in this repo |
 | Team PRD | Not linked | Under Mentors International's NDA, so it cannot be shared |
-| WhatsApp test number | Not live yet | WhatsApp Business API access exists for one team member; the rest of the dev team is being set up |
+| WhatsApp test number | Not public | Runs on the team's Meta test number; Meta business verification (team issue #37) is still pending, so it only reaches registered test phones. The Sprint 2 Loom shows it on a test phone |
 
 Mentors International content and documents are under NDA and stay out of this repo. My code
 work happens in the team repo above, not here; this repo holds sprint plans, reviews, and notes.
