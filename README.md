@@ -31,7 +31,7 @@ this repo.
 | Development backlog I set up (Sprint 2 operations work) | [Issues #4 to #52](https://github.com/Ensign-College/mena-mockup-1/issues?q=is%3Aissue+author%3Atyhoag) | In the team repo. I wrote all 49 on 2026-11-10: decisions (#4 to #8, #50, #51), build work by area, blocked ops items, and a parking lot |
 | My PR: save how long the socio waited for each answer | [PR #61](https://github.com/Ensign-College/mena-mockup-1/pull/61) (closes #23) | In the team repo; 5 commits by tyhoag, with tests |
 | WhatsApp buttons (Sprint 2 build work, in progress) | [#11](https://github.com/Ensign-College/mena-mockup-1/issues/11) privacy "I agree" buttons, [#12](https://github.com/Ensign-College/mena-mockup-1/issues/12) topic buttons, [#16](https://github.com/Ensign-College/mena-mockup-1/issues/16) thumbs rating | Issues in the team repo; the PR link for each goes here when it opens |
-| PRs I reviewed and merged | [PR #1](https://github.com/Ensign-College/mena-mockup-1/pull/1) (merged 2026-10-31), [PR #2](https://github.com/Ensign-College/mena-mockup-1/pull/2) (approved 2026-11-05) | In the team repo |
+| Team PRs I reviewed | [PR #1](https://github.com/Ensign-College/mena-mockup-1/pull/1) (merged 2026-10-31), [PR #2](https://github.com/Ensign-College/mena-mockup-1/pull/2) (approved 2026-11-05) | In the team repo |
 | Claude artifact prototype (Sprint 1 demo) | https://claude.ai/artifact/Bg4SnEmzGQk5R7X32Wz2tx | Public: anyone with the link can open it |
 | Sprint plans and reviews | `sprints/` in this repo | Public in this repo |
 | Team PRD | Not linked | Under Mentors International's NDA, so it cannot be shared |
