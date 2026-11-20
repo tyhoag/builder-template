@@ -2,7 +2,7 @@
 
 **Window:** 2026-11-10 to 2026-11-20
 **Sessions reviewed:** 6 across 5 projects (Claude Code 6, Codex 0; 56 sessions excluded at your request)
-**Active session time:** about 6.2 hours (gaps under 15 minutes)
+**Active session time:** about 6.2 hours (gaps under 15 minutes). This counts only time with back-to-back activity in the 6 Claude Code sessions above. It leaves out the meetings, GitHub web reviews, the Meta dashboard, Slack, and any work outside Claude Code.
 **Not visible to this review:** Team meetings, per the builder's calendar: a Mentors International check-in (Nov 10), the AI Mentor product manager meeting (Nov 10), the AI Mentor project team meeting (Nov 11), and the prep and MI executive review meetings (Nov 13). GitHub web reviews of teammates' PRs. The Meta dashboard. Slack threads with the team.
 
 ## Work files and links
@@ -105,15 +105,15 @@ The plan changed twice: on Nov 19 (quiz-button lessons replaced by starter-topic
 
 ## Your sprint retrospective
 
-*The builder's own answers, recorded word for word.*
+*The builder's own answers, recorded word for word. Dictation errors were corrected at the builder's request: "GitHub issues" in the goal answer, and "WhatsApp frontend design for lesson delivery" in the plan-change answer.*
 
-**Did you hit the goal?** Yes, I hit my goal in part. I was able to set up an extensive backlog and Gab issues where we can track all the progress that we're making. It's been a fairly bureaucratic process, considering we have a large team, but I think we're finally making progress in terms of actually getting stuff done within the code.
+**Did you hit the goal?** Yes, I hit my goal in part. I was able to set up an extensive backlog and GitHub issues where we can track all the progress that we're making. It's been a fairly bureaucratic process, considering we have a large team, but I think we're finally making progress in terms of actually getting stuff done within the code.
 
 **What did the client or your users say?** We will have a meeting about my work tomorrow at 12. That is when our team meetings are. They are after this sprint is due, so we will see.
 
 **What did the report show you?** I think the most insightful part about the report is learning what I'm using and not using enough of during sprints. I don't feel like it's super accurate on a lot of these things, but it still is insightful to me to realize that I should be using more of all the builder tools as I work. I think it just helped me get perspective that there's a lot more stuff that I could be using to make my building a lot easier.
 
-**If the plan changed, why?** Yes, I changed the plan. The only thing I really changed was because there was a blocker in getting my pull request approved, and I ran a prototype version of the WhatsApp buttons within an actual WhatsApp number. They actually sent, and the layout works correctly, but it wasn't connected entirely yet to the AI brain that makes it completely functional. Other than that, the plan stayed the same: to work on GitHub issues and, unlike front-end design, of the delivery.
+**If the plan changed, why?** Yes, I changed the plan. The only thing I really changed was because there was a blocker in getting my pull request approved, and I ran a prototype version of the WhatsApp buttons within an actual WhatsApp number. They actually sent, and the layout works correctly, but it wasn't connected entirely yet to the AI brain that makes it completely functional. Other than that, the plan stayed the same: to work on GitHub issues and WhatsApp frontend design for lesson delivery.
 
 **Actual difficulty:** Honestly, I think it was a 4. It was actually a pretty hard sprint, mostly because working with the team can be frustrating at times, understanding expectations, and trying to juggle everything that I have going on. I would say the number of meetings that we had, mixed with the way that we've been operating, has made it difficult. Also, seeing my sprint reviews and reading through them sometimes makes me feel less competent, and so it makes me feel like it should have been easier than it was, which is sometimes frustrating.
 
